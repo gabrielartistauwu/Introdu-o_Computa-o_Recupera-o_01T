@@ -1,5 +1,6 @@
 # Introdu-o_Computa-o_Recupera-o_01T<!DOCTYPE 
-html>
+
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
